@@ -1,0 +1,83 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+EasterEggs/DiaDeLosMuertos1
+  rotate: false
+  xy: 4, 70
+  size: 300, 220
+  orig: 300, 220
+  offset: 0, 0
+  index: -1
+EasterEggs/DiaDeLosMuertos2
+  rotate: false
+  xy: 1692, 98
+  size: 163, 360
+  orig: 163, 360
+  offset: 0, 0
+  index: -1
+EasterEggs/DiaDeLosMuertos3
+  rotate: false
+  xy: 4, 298
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1
+EasterEggs/Diwali1
+  rotate: false
+  xy: 332, 272
+  size: 300, 186
+  orig: 300, 186
+  offset: 0, 0
+  index: -1
+EasterEggs/Diwali2
+  rotate: false
+  xy: 1236, 282
+  size: 240, 176
+  orig: 240, 176
+  offset: 0, 0
+  index: -1
+EasterEggs/Diwali3
+  rotate: false
+  xy: 1484, 158
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+EasterEggs/Diwali4
+  rotate: false
+  xy: 948, 300
+  size: 280, 158
+  orig: 280, 158
+  offset: 0, 0
+  index: -1
+EasterEggs/Diwali5
+  rotate: false
+  xy: 312, 4
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+EasterEggs/Qingming1
+  rotate: false
+  xy: 640, 290
+  size: 300, 168
+  orig: 300, 168
+  offset: 0, 0
+  index: -1
+EasterEggs/Qingming2
+  rotate: false
+  xy: 1863, 170
+  size: 120, 148
+  orig: 120, 148
+  offset: 0, 0
+  index: -1
+EasterEggs/Qingming3
+  rotate: false
+  xy: 1863, 326
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
